@@ -5,4 +5,7 @@
 //  Created by User on 13.10.2021.
 //
 
-import Foundation
+import UIKit
+
+class Piglet2ViewController: UIViewController {
+}
